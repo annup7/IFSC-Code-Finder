@@ -1,4 +1,4 @@
-# 🏦 IFSC Code Finder – PHP & MySQL
+# 🏦 IFSCGo - IFSC Code Finder – PHP & MySQL
 
 A simple web application to search Indian bank IFSC codes by bank name, branch, and pin code. Includes a full-featured admin panel to manage banks, cities, and branches.
 
@@ -14,6 +14,11 @@ A simple web application to search Indian bank IFSC codes by bank name, branch, 
 - Admin login to add/edit/delete records
 - Responsive design
 - Password recovery for admin
+
+## 👨‍💻 Contributors
+
+- [@anupnalawade](https://github.com/anupnalawade)
+- [@gaurikad11](https://github.com/gaurikad11)  
 
 ## ⚙️ How to Run Locally
 1. Clone the repo or copy folder to `C:\xampp\htdocs\`
