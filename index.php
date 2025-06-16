@@ -72,7 +72,7 @@ include('admin/includes/dbconnection.php');
                 <div class="row">
                     <div class="col-lg-12">
                         <nav class="navbar navbar-expand-lg">
-                           <h3 style="color: red;padding-right: 50px;">IFSC Code Finder Portal</h3>
+                           <h3 style="color: red;padding-right: 50px;">IFSCGo - IFSC CODE FINDER</h3>
                             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                                 <span class="toggler-icon"></span>
                                 <span class="toggler-icon"></span>
@@ -98,7 +98,7 @@ include('admin/includes/dbconnection.php');
         <div id="home" class="header-hero bg_cover d-lg-flex align-items-center" style="background-image: url(assets/images/header-hero.jpg)">
             <div class="container">
                 <div class="row">
-                    <div class="col-lg-7">
+                    <div class="col-lg-12">
                         <div class="header-hero-content">
                             <h1 class="hero-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s"><b>Search</b> <span>Bank</span> Detail <b>by one click.</b></h1>
                             <div class="header-singup wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.8s">
@@ -110,11 +110,6 @@ include('admin/includes/dbconnection.php');
                     </div>
                 </div> <!-- row -->
             </div> <!-- container -->
-            <div class="header-hero-image d-flex align-items-center wow fadeInRightBig" data-wow-duration="1s" data-wow-delay="1.1s">
-                <div class="image">
-                    <img src="assets/images/hero-image.png" alt="Hero Image">
-                </div>
-            </div> <!-- header hero image -->
         </div> <!-- header hero -->
     </header>
     
@@ -124,7 +119,7 @@ include('admin/includes/dbconnection.php');
     <footer id="footer" class="footer-area bg_cover" style="background-image: url(assets/images/footer-bg.jpg)">
         <div class="container">
             <div class="footer-copyright text-center">
-                <p class="text">© <?php echo date('Y');?> IFSC Code finder Portal</p>
+                <p class="text">© <?php echo date('Y');?> IFSCGo</p>
             </div>
         </div> <!-- container -->
     </footer>
