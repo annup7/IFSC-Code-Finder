@@ -17,8 +17,19 @@ A simple web application to search Indian bank IFSC codes by bank name, branch, 
 
 ## 👨‍💻 Contributors
 
-- [@anupnalawade](https://github.com/anupnalawade)
-- [@gaurikad11](https://github.com/gaurikad11)  
+- [@anupnalawade](https://github.com/anupnalawade) - Anup Nalawade
+- [@gaurikad11](https://github.com/gaurikad11) - Gauri Kad
+
+## 📸 Screenshots
+
+### 🔍 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🛠️ Admin Dashboard
+![Admin](screenshots/dashboard.png)
+
+### ✅ Search Result
+![Search Result](screenshots/search-result.png)
 
 ## ⚙️ How to Run Locally
 1. Clone the repo or copy folder to `C:\xampp\htdocs\`
